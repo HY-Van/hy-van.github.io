@@ -2,7 +2,7 @@
 
 - [TODO]
 
-- Y. Zhong, Y. He, Z. Yang, P. Tian, <strong>Y. Huang</strong>, Q. Huang, X. Zhu and Y. Ma. From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges. <strong>Under Review</strong> [[Paper]](https://openreview.net/forum?id=c0DDRZoMNf)
+<!-- - Y. Zhong, Y. He, Z. Yang, P. Tian, <strong>Y. Huang</strong>, Q. Huang, X. Zhu and Y. Ma. From Noise to Intent: Anchoring Generative VLA Policies with Residual Bridges. <strong>Under Review</strong> [[Paper]](https://openreview.net/forum?id=c0DDRZoMNf) -->
 
 #### Published
 
